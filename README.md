@@ -46,9 +46,6 @@ Este projeto foi criado como parte de um desafio de curso para praticar:
 - Consumo de APIs em Java
 - Organização do código com classes e métodos
 
-## 📸 Prévia
-
-*(Você pode adicionar uma captura de tela do terminal aqui, se quiser)*
 
 ## 🧑‍💻 Autor
 
