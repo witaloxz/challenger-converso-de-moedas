@@ -1,56 +1,60 @@
-# 💱 Conversor de Moedas - Java
+# 💱 Currency Converter - Java
 
-Este projeto é um **conversor de moedas** desenvolvido em Java como parte de um desafio de curso.  
-Ele utiliza a [ExchangeRate API](https://www.exchangerate-api.com/) para buscar as taxas de câmbio em tempo real e converter valores entre diferentes moedas.
+![Java](https://img.shields.io/badge/Java-17%2B-orange)
+![API](https://img.shields.io/badge/API-ExchangeRate-blue)
+![OOP](https://img.shields.io/badge/OOP-Concepts-success)
+![CLI](https://img.shields.io/badge/Interface-CLI-lightgrey)
 
-## 🚀 Funcionalidades
+This project is a **currency converter** developed in **Java** as part of a course challenge.  
+It uses the [ExchangeRate API](https://www.exchangerate-api.com/) to fetch real-time exchange rates and convert values between different currencies.
 
-- Conversão entre moedas populares (USD, EUR, BRL, etc.)
-- Taxas de câmbio em tempo real
-- Interface simples pelo terminal
-- Estrutura orientada a objetos
+## 🚀 Features
 
-## 🛠️ Tecnologias Utilizadas
+- Conversion between popular currencies (USD, EUR, BRL, etc.)
+- Real-time exchange rates
+- Simple command-line interface (CLI)
+- Object-oriented design
 
-- Java (recomendado JDK 17 ou superior)
-- Requisições HTTP com `HttpURLConnection`
-- Leitura de JSON com `org.json` (ou similar)
-- API ExchangeRate
+## 🛠️ Technologies Used
 
-## 📦 Como Executar
+- Java (recommended JDK 17 or higher)
+- HTTP requests using `HttpURLConnection`
+- JSON parsing with `org.json` (or similar)
+- ExchangeRate API
 
-1. Clone este repositório:
+## 📦 How to Run
+
+1. Clone this repository:
    ```bash
-   git clone https://github.com/witaloxz/nome-do-repo.git
-   cd nome-do-repo
+   git clone https://github.com/witaloxz/repository-name.git
+   cd repository-name
    ```
 
-2. Verifique se o Java está instalado:
+2. Check if Java is installed:
    ```bash
    java -version
    ```
 
-3. Compile e execute o código:
+3. Compile and run the application:
    ```bash
    javac ConversorApp.java
    java ConversorApp
    ```
 
-> 🔐 Lembre-se de inserir sua chave de API do [ExchangeRate API](https://www.exchangerate-api.com/) no código antes de executar.
+> 🔐 Remember to insert your **ExchangeRate API key** into the code before running the application.
 
-## 📚 Sobre o Desafio
+## 📚 About the Challenge
 
-Este projeto foi criado como parte de um desafio de curso para praticar:
+This project was created as part of a course challenge to practice:
 
-- Fundamentos do Java e programação orientada a objetos
-- Consumo de APIs em Java
-- Organização do código com classes e métodos
+- Java fundamentals and object-oriented programming
+- Consuming external APIs in Java
+- Code organization using classes and methods
 
+## 🧑‍💻 Author
 
-## 🧑‍💻 Autor
-
-Feito com ❤️ por [Witalo Dias](https://github.com/witaloxz)
+Made with ❤️ by [Witalo Dias](https://github.com/witaloxz)
 
 ---
 
-Sinta-se à vontade para contribuir, dar um fork ou deixar uma ⭐ se curtir o projeto!
+Feel free to contribute, fork the project or leave a ⭐ if you enjoyed it!
